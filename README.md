@@ -2,6 +2,7 @@
 
 Our senior capstone involes designing and implmenting a custom, automated antenna rotating system which our sponsor/client will be using to communicate with satellites.
 
+
 ## Description
 
 This GitHub contains the firmware created in MPLAB x IDE. Everything is coded in the C programming language, and it targets a PIC32MK0512MCJ048 microcontroller.
@@ -12,9 +13,13 @@ Users will be able to hook-up their laptop to our embedded system via a USB cabl
 
 An LCD controlled using SPI will be able to provide live-feedback to the user about the status of the system, current date and time, as well as the current elevation and azimuth readings.
 
+
 ## Authors
 
 Camden Downey (Embedded System)
+
 Paul Riehle (Electrical)
+
 Noah Tugen (Mechanical)
+
 Phil Pash (Sponsor/Client)
