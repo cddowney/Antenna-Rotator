@@ -26,6 +26,12 @@ An LCD controlled using SPI will be able to provide live-feedback to the user ab
 ## System Overview
 <img width="1023" height="808" alt="image" src="https://github.com/user-attachments/assets/e7882166-8aac-44ec-80bf-e37e0a8d8c64" />
 
+## System Assembly
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/272d0768-f7fa-45f0-9066-b4f300c6f440" />
+
+## Custom PCB
+<img width="410" height="441" alt="image" src="https://github.com/user-attachments/assets/a143927b-a8e7-47d4-8174-cdc247a377f7" />
+
 
 ## Authors
 
