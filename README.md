@@ -33,7 +33,7 @@ An LCD controlled using SPI will be able to provide live-feedback to the user ab
 <img width="410" height="441" alt="image" src="https://github.com/user-attachments/assets/a143927b-a8e7-47d4-8174-cdc247a377f7" />
 
 
-## Authors
+## Collaborators
 
 Camden Downey (Embedded System)
 
