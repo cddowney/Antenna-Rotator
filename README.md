@@ -3,15 +3,15 @@
 Our senior capstone involes designing and implmenting a custom, automated antenna rotating system which our sponsor/client will be using to communicate with satellites.
 
 ## Key Features
-- **Closed-loop dual-axis control**
-- **Quadrature encoder position tracking**
-- **Threshold-based proportional control**
-- **Deadband stabilization**
-- **GS-232A protocol support (UART)**  
-- **Manual override controls**  
-- **Limit switch safety system**  
-- **Homing and calibration routine**  
-- **Real-time system feedback (SPI LCD)**  
+- Closed-loop dual-axis control
+- Quadrature encoder position tracking
+- Threshold-based proportional control
+- Deadband stabilization
+- GS-232A protocol support (UART)
+- Manual override controls
+- Limit switch safety system
+- Homing and calibration routine
+- Real-time system feedback (SPI LCD)
 
 ## Description
 
